@@ -1,0 +1,15 @@
+/Users/vishwaschaugule/Projects/CodingProject/CodingProject/bin/Debug/net7.0/CodingProject
+/Users/vishwaschaugule/Projects/CodingProject/CodingProject/bin/Debug/net7.0/CodingProject.deps.json
+/Users/vishwaschaugule/Projects/CodingProject/CodingProject/bin/Debug/net7.0/CodingProject.runtimeconfig.json
+/Users/vishwaschaugule/Projects/CodingProject/CodingProject/bin/Debug/net7.0/CodingProject.dll
+/Users/vishwaschaugule/Projects/CodingProject/CodingProject/bin/Debug/net7.0/CodingProject.pdb
+/Users/vishwaschaugule/Projects/CodingProject/CodingProject/obj/Debug/net7.0/CodingProject.csproj.AssemblyReference.cache
+/Users/vishwaschaugule/Projects/CodingProject/CodingProject/obj/Debug/net7.0/CodingProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vishwaschaugule/Projects/CodingProject/CodingProject/obj/Debug/net7.0/CodingProject.AssemblyInfoInputs.cache
+/Users/vishwaschaugule/Projects/CodingProject/CodingProject/obj/Debug/net7.0/CodingProject.AssemblyInfo.cs
+/Users/vishwaschaugule/Projects/CodingProject/CodingProject/obj/Debug/net7.0/CodingProject.csproj.CoreCompileInputs.cache
+/Users/vishwaschaugule/Projects/CodingProject/CodingProject/obj/Debug/net7.0/CodingProject.dll
+/Users/vishwaschaugule/Projects/CodingProject/CodingProject/obj/Debug/net7.0/refint/CodingProject.dll
+/Users/vishwaschaugule/Projects/CodingProject/CodingProject/obj/Debug/net7.0/CodingProject.pdb
+/Users/vishwaschaugule/Projects/CodingProject/CodingProject/obj/Debug/net7.0/CodingProject.genruntimeconfig.cache
+/Users/vishwaschaugule/Projects/CodingProject/CodingProject/obj/Debug/net7.0/ref/CodingProject.dll
