@@ -24,3 +24,5 @@ foreach (var num in twosum2)
 {
     Console.WriteLine(num);
 }
+
+Console.WriteLine(FindMissingNumber.FindMissingNumberInArray(new int[] { 1, 3, 4, 5 }));
