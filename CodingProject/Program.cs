@@ -33,7 +33,7 @@ Console.WriteLine(ValidParanthesis.CheckValidParanthesis("(({[]()))}"));
 Console.WriteLine(ReverseString.Reverse("racecar"));
 Console.WriteLine(ReverseString.Reverse("string"));
 
-Console.WriteLine(Palindrome.IsPalindrome("RaceCar"));
+Console.WriteLine(Palindrome.IsPalindrome("racecar"));
 Console.WriteLine(Palindrome.IsPalindrome("madam"));
 Console.WriteLine(Palindrome.IsPalindrome("hello"));
 

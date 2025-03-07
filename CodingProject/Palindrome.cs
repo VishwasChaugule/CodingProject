@@ -9,9 +9,17 @@ namespace CodingProject
 
 		public static bool IsPalindrome(string text)
 		{
-			string reversedString = ReverseString.Reverse(text);
-
-			return text.ToLower() == reversedString.ToLower();
+			int left = 0;
+			int right = text.Length - 1;
+			while(left < right)
+			{
+				if (text[left] != text[right])
+					return false;
+				left++;
+				right--;
+			}
+			
+			return true;
 		}
 	}
 }
