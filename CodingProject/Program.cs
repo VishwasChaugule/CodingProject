@@ -38,3 +38,6 @@ Console.WriteLine(Palindrome.IsPalindrome("madam"));
 Console.WriteLine(Palindrome.IsPalindrome("hello"));
 
 Console.WriteLine(RemoveDuplicateCharacters.RemoveDuplicateCharactersFromString("aabbbcc"));
+
+int[] mergedArray = MergeSortedArrays.MergeTwoSortedArrays(new int[] { 1, 3, 5 }, new int[] { 2, 4, 6 });
+Console.WriteLine(string.Join(",", mergedArray));
