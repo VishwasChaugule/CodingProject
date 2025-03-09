@@ -1,7 +1,6 @@
-﻿using System;
-namespace CodingProject
+﻿namespace CodingProject
 {
-	public class TwoSumProblem
+    public class TwoSumProblem
 	{
 		public TwoSumProblem()
 		{
@@ -11,7 +10,7 @@ namespace CodingProject
 		{
 			Dictionary<int, int> numberDictionary = new Dictionary<int, int>();
 
-			for (int i=0; i< numbers.Length; i++)
+			for (int i=0; i < numbers.Length; i++)
 			{
 				int compliment = target - numbers[i];
 				if (numberDictionary.ContainsKey(compliment))
