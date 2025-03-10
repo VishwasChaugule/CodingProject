@@ -47,3 +47,15 @@ Console.WriteLine(RemoveDuplicateCharacters.RemoveDuplicateCharactersFromString(
 Console.Write("Merged Array of new int[] { 1, 3, 5 }, new int[] { 2, 4, 6 } : ");
 int[] mergedArray = MergeSortedArrays.MergeTwoSortedArrays(new int[] { 1, 3, 5 }, new int[] { 2, 4, 6 });
 Console.WriteLine(string.Join(",", mergedArray));
+
+
+Console.WriteLine("Stack using Linked List");
+var stack = new CodingProject.StackwithLinkedList.Stack();
+Console.WriteLine($"Is Stack empty : {stack.IsEmpty()}");
+stack.Push(1);
+stack.Push(2);
+stack.Push(3);
+Console.WriteLine($"Top element is: {stack.Peek()}");
+stack.Pop();
+Console.WriteLine($"Top element is: {stack.Peek()}");
+Console.WriteLine($"Is Stack empty : {stack.IsEmpty()}");
