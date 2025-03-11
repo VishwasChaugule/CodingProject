@@ -59,3 +59,5 @@ Console.WriteLine($"Top element is: {stack.Peek()}");
 stack.Pop();
 Console.WriteLine($"Top element is: {stack.Peek()}");
 Console.WriteLine($"Is Stack empty : {stack.IsEmpty()}");
+
+Console.WriteLine($"Longest Substring Without Repeating Characters for abcabcbb is {LengthOfLongestSubstring.GetLengthOfLongestSubstring("abcabcbb")}");

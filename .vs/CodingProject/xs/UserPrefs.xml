@@ -1,31 +1,35 @@
 ﻿<Properties StartupConfiguration="{A95622FC-B682-4209-9CC4-E0B04485AC2D}|Default">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.CodingProject PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="CodingProject/TwoSumProblem.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CodingProject/Program.cs">
     <Files>
-      <File FileName="CodingProject/Program.cs" Line="16" Column="16" />
-      <File FileName="CodingProject/UniqueCharacterInAString.cs" Line="10" Column="29" />
+      <File FileName="CodingProject/Program.cs" Line="60" Column="54" />
+      <File FileName="CodingProject/UniqueCharacterInAString.cs" />
       <File FileName="CodingProject/TwoSumProblem.cs" Line="29" Column="1" />
-      <File FileName="CodingProject/FindMissingNumber.cs" Line="1" Column="1" />
-      <File FileName="CodingProject/ValidParanthesis.cs" Line="1" Column="1" />
-      <File FileName="CodingProject/ReverseString.cs" Line="1" Column="1" />
+      <File FileName="CodingProject/FindMissingNumber.cs" />
+      <File FileName="CodingProject/ValidParanthesis.cs" />
+      <File FileName="CodingProject/ReverseString.cs" />
       <File FileName="CodingProject/Palindrome.cs" />
       <File FileName="CodingProject/RemoveDuplicateCharacters.cs" />
-      <File FileName="CodingProject/MergeSortedArrays.cs" Line="15" Column="31" />
+      <File FileName="CodingProject/MergeSortedArrays.cs" />
+      <File FileName="CodingProject/Stack with LinkedList/Node.cs" Line="17" Column="1" />
+      <File FileName="CodingProject/Stack with LinkedList/Stack.cs" Line="2" Column="44" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CodingProject" selected="True">
-            <Node name="CodingProject" expanded="True" />
+            <Node name="CodingProject" expanded="True">
+              <Node name="Stack with LinkedList" expanded="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CodingProject PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
 </Properties>
