@@ -20,6 +20,7 @@ namespace CodingProject
 			if (IsEmpty())
 			{
 				Console.WriteLine("Queue is empty");
+				return -1;
 			}
 
 			while (stack1.Count > 0)
