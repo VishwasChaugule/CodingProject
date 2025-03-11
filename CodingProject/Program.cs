@@ -61,3 +61,15 @@ Console.WriteLine($"Top element is: {stack.Peek()}");
 Console.WriteLine($"Is Stack empty : {stack.IsEmpty()}");
 
 Console.WriteLine($"Longest Substring Without Repeating Characters for abcabcbb is {LengthOfLongestSubstring.GetLengthOfLongestSubstring("abcabcbb")}");
+
+Console.WriteLine("Implement Queue is using two stacks");
+QueueUsingTwoStacks queue = new QueueUsingTwoStacks();
+Console.WriteLine($"Is queue empty : {queue.IsEmpty()}");
+queue.Enqueue(1);
+queue.Enqueue(2);
+queue.Enqueue(3);
+queue.Enqueue(4);
+Console.WriteLine($"Is queue empty : {queue.IsEmpty()}");
+Console.WriteLine($"Dequeue: {queue.Dequeue()}");
+Console.WriteLine($"Peek element: {queue.Dequeue()}");
+

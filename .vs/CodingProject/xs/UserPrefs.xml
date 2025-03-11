@@ -1,35 +1,34 @@
 ﻿<Properties StartupConfiguration="{A95622FC-B682-4209-9CC4-E0B04485AC2D}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="CodingProject/Program.cs">
     <Files>
-      <File FileName="CodingProject/Program.cs" Line="60" Column="54" />
+      <File FileName="CodingProject/Program.cs" Line="62" Column="1" />
       <File FileName="CodingProject/UniqueCharacterInAString.cs" />
-      <File FileName="CodingProject/TwoSumProblem.cs" Line="29" Column="1" />
+      <File FileName="CodingProject/TwoSumProblem.cs" />
       <File FileName="CodingProject/FindMissingNumber.cs" />
       <File FileName="CodingProject/ValidParanthesis.cs" />
       <File FileName="CodingProject/ReverseString.cs" />
       <File FileName="CodingProject/Palindrome.cs" />
       <File FileName="CodingProject/RemoveDuplicateCharacters.cs" />
       <File FileName="CodingProject/MergeSortedArrays.cs" />
-      <File FileName="CodingProject/Stack with LinkedList/Node.cs" Line="17" Column="1" />
-      <File FileName="CodingProject/Stack with LinkedList/Stack.cs" Line="2" Column="44" />
+      <File FileName="CodingProject/Stack with LinkedList/Node.cs" />
+      <File FileName="CodingProject/Stack with LinkedList/Stack.cs" />
+      <File FileName="CodingProject/LengthOfLongestSubstring.cs" Line="19" Column="27" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CodingProject" selected="True">
-            <Node name="CodingProject" expanded="True">
-              <Node name="Stack with LinkedList" expanded="True" />
-            </Node>
+            <Node name="CodingProject" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CodingProject PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.CodingProject PreferredExecutionTarget="MonoDevelop.Default" />
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
