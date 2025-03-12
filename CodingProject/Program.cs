@@ -76,3 +76,10 @@ Console.WriteLine($"Peek element: {queue.Dequeue()}");
 Console.WriteLine($"Factorial of 0: {Factorial.GetFactorialOfNumber(0)}");
 Console.WriteLine($"Factorial of 1: {Factorial.GetFactorialOfNumber(1)}");
 Console.WriteLine($"Factorial of 5: {Factorial.GetFactorialOfNumber(5)}");
+
+Console.WriteLine($"Fibonacci series upto 5:");
+
+for (int i = 0; i < 5; i++)
+{
+    Console.WriteLine(Fibonacci.GetFibonacciSeriesUptoGivenNumber(i) + " ");
+}
