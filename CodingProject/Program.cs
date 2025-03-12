@@ -86,3 +86,6 @@ for (int i = 0; i < 5; i++)
 
 Console.WriteLine("Max Sub Array Sum");
 Console.WriteLine($"[1,-2, 3, 4, -3, 4] : {MaxSubArraySum.GetMaxSubArraySum(new int[] { 1, -2, 3, 4, -3, 4 })}");
+
+Console.WriteLine("FizBuzz Problem");
+FizBuzzProblem.FizBuzz();
