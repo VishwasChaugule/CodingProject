@@ -73,3 +73,6 @@ Console.WriteLine($"Is queue empty : {queue.IsEmpty()}");
 Console.WriteLine($"Dequeue: {queue.Dequeue()}");
 Console.WriteLine($"Peek element: {queue.Dequeue()}");
 
+Console.WriteLine($"Factorial of 0: {Factorial.GetFactorialOfNumber(0)}");
+Console.WriteLine($"Factorial of 1: {Factorial.GetFactorialOfNumber(1)}");
+Console.WriteLine($"Factorial of 5: {Factorial.GetFactorialOfNumber(5)}");
