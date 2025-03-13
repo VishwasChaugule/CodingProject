@@ -89,3 +89,10 @@ Console.WriteLine($"[1,-2, 3, 4, -3, 4] : {MaxSubArraySum.GetMaxSubArraySum(new 
 
 Console.WriteLine("FizBuzz Problem");
 FizBuzzProblem.FizBuzz();
+
+Console.WriteLine("Count Character Occurrences");
+var characterCountOccurrences = CountCharacterOccurrences.GetCountCharacterOccurrences("aabccccddddd");
+foreach (var item in characterCountOccurrences)
+{
+    Console.WriteLine($"{item.Key} : {item.Value}");
+}

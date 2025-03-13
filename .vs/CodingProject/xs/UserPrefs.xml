@@ -1,10 +1,15 @@
 ﻿<Properties StartupConfiguration="{A95622FC-B682-4209-9CC4-E0B04485AC2D}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="CodingProject/Fibonacci.cs">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.CodingProject PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CodingProject/MaxSubArraySum.cs">
     <Files>
-      <File FileName="CodingProject/Program.cs" Line="76" Column="67" />
+      <File FileName="CodingProject/Program.cs" Line="91" Column="26" />
       <File FileName="CodingProject/UniqueCharacterInAString.cs" />
       <File FileName="CodingProject/TwoSumProblem.cs" />
-      <File FileName="CodingProject/FindMissingNumber.cs" Line="1" Column="1" />
+      <File FileName="CodingProject/FindMissingNumber.cs" />
       <File FileName="CodingProject/ValidParanthesis.cs" />
       <File FileName="CodingProject/ReverseString.cs" />
       <File FileName="CodingProject/Palindrome.cs" />
@@ -13,25 +18,19 @@
       <File FileName="CodingProject/Stack with LinkedList/Node.cs" />
       <File FileName="CodingProject/Stack with LinkedList/Stack.cs" />
       <File FileName="CodingProject/LengthOfLongestSubstring.cs" />
-      <File FileName="CodingProject/QueueUsingTwoStacks.cs" Line="23" Column="15" />
-      <File FileName="CodingProject/Factorial.cs" Line="17" Column="2" />
-      <File FileName="CodingProject/Fibinacci.cs" Line="19" Column="1" />
+      <File FileName="CodingProject/QueueUsingTwoStacks.cs" />
+      <File FileName="CodingProject/Factorial.cs" />
+      <File FileName="CodingProject/MaxSubArraySum.cs" Line="13" Column="18" />
+      <File FileName="CodingProject/FizBuzzProblem.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="CodingProject" selected="True">
-            <Node name="CodingProject" expanded="True" />
-          </Node>
+          <Node name="CodingProject" selected="True" />
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.CodingProject PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
 </Properties>
