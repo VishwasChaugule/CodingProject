@@ -23,10 +23,13 @@ namespace CodingProject
 				return -1;
 			}
 
-			while (stack1.Count > 0)
+			if (stack2.Count == 0)
 			{
-				stack2.Push(stack1.Pop());
-			}
+                while (stack1.Count > 0)
+                {
+                    stack2.Push(stack1.Pop());
+                }
+            }
 
 			return stack2.Pop();
 		}
@@ -39,10 +42,13 @@ namespace CodingProject
 				return -1;
 			}
 
-			while(stack1.Count > 0)
+			if (stack2.Count == 0)
 			{
-				stack2.Push(stack1.Pop());
-			}
+                while (stack1.Count > 0)
+                {
+                    stack2.Push(stack1.Pop());
+                }
+            }
 
 			return stack2.Peek();
 		}
