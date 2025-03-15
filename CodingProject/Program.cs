@@ -99,3 +99,6 @@ foreach (var item in characterCountOccurrences)
 
 Console.WriteLine($"Is 121 palindrome: {PalindromeNumber.IsPalindromeNumber(121)}");
 Console.WriteLine($"Is 123 palindrome: {PalindromeNumber.IsPalindromeNumber(123)}");
+
+string result = ReverseWords.ReverseWordsInAString("Hello World from CodingProject");
+Console.WriteLine(result); // Output: "CodingProject from World Hello"
