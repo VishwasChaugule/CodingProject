@@ -96,3 +96,6 @@ foreach (var item in characterCountOccurrences)
 {
     Console.WriteLine($"{item.Key} : {item.Value}");
 }
+
+Console.WriteLine($"Is 121 palindrome: {PalindromeNumber.IsPalindromeNumber(121)}");
+Console.WriteLine($"Is 123 palindrome: {PalindromeNumber.IsPalindromeNumber(123)}");
