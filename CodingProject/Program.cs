@@ -102,3 +102,7 @@ Console.WriteLine($"Is 123 palindrome: {PalindromeNumber.IsPalindromeNumber(123)
 
 string result = ReverseWords.ReverseWordsInAString("Hello World from CodingProject");
 Console.WriteLine(result); // Output: "CodingProject from World Hello"
+
+Console.WriteLine($"Is Anagram : {Anagram.IsAnagram("Listen","Silent")}");
+
+Console.WriteLine($"Is Anagram : {Anagram.IsAnagram("Hello", "World")}");
