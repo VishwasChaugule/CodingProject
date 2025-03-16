@@ -106,3 +106,14 @@ Console.WriteLine(result); // Output: "CodingProject from World Hello"
 Console.WriteLine($"Is Anagram : {Anagram.IsAnagram("Listen","Silent")}");
 
 Console.WriteLine($"Is Anagram : {Anagram.IsAnagram("Hello", "World")}");
+
+Console.WriteLine("Binary Search");
+
+int[] arr = { 1, 3, 5, 7, 9, 11, 13, 15 };
+Console.WriteLine("Enter the number to search:");
+int target = int.Parse(Console.ReadLine());
+int index = BinarySearchAlgorithm.BinarySearch(arr, target);
+if (index == -1)
+    Console.WriteLine("Number not found.");
+else
+    Console.WriteLine($"Number found at index: {index}");
