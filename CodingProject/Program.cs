@@ -117,3 +117,9 @@ if (index == -1)
     Console.WriteLine("Number not found.");
 else
     Console.WriteLine($"Number found at index: {index}");
+
+Console.WriteLine($"Largest Number : {LargestNumber.GetLargestNumber(arr)}");
+Console.WriteLine($"Second Largest Number : {LargestNumber.GetSecondLargestNumber(arr)}");
+
+Console.WriteLine($"Smallest Number : {SmallestNumber.GetSmallestNumber(arr)}");
+Console.WriteLine($"Second Smallest Number : {SmallestNumber.GetSecondSmallestNumber(arr)}");

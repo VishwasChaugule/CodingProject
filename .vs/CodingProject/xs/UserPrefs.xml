@@ -1,9 +1,8 @@
 ﻿<Properties StartupConfiguration="{A95622FC-B682-4209-9CC4-E0B04485AC2D}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="CodingProject/ReverseWords.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CodingProject/BinarySearchAlgorithm.cs">
     <Files>
-      <File FileName="CodingProject/Program.cs" Line="104" Column="71" />
+      <File FileName="CodingProject/Program.cs" Line="115" Column="36" />
       <File FileName="CodingProject/UniqueCharacterInAString.cs" />
       <File FileName="CodingProject/TwoSumProblem.cs" />
       <File FileName="CodingProject/FindMissingNumber.cs" />
@@ -20,8 +19,10 @@
       <File FileName="CodingProject/MaxSubArraySum.cs" />
       <File FileName="CodingProject/FizBuzzProblem.cs" />
       <File FileName="CodingProject/CountCharacterOccurrences.cs" />
-      <File FileName="CodingProject/PalindromeNumber.cs" Line="17" Column="31" />
+      <File FileName="CodingProject/PalindromeNumber.cs" />
       <File FileName="CodingProject/ReverseWords.cs" Line="15" Column="2" />
+      <File FileName="CodingProject/Anagram.cs" Line="16" Column="32" />
+      <File FileName="CodingProject/BinarySearchAlgorithm.cs" Line="29" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -33,9 +34,10 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.CodingProject PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
