@@ -123,3 +123,15 @@ Console.WriteLine($"Second Largest Number : {LargestNumber.GetSecondLargestNumbe
 
 Console.WriteLine($"Smallest Number : {SmallestNumber.GetSmallestNumber(arr)}");
 Console.WriteLine($"Second Smallest Number : {SmallestNumber.GetSecondSmallestNumber(arr)}");
+
+Console.WriteLine("Find common element");
+
+int[] arr1 = { 1, 2, 3, 4, 5 };
+int[] arr2 = { 4, 5, 6, 7 };
+
+List<int> common = CommonElements.FindCommonElements(arr1, arr2);
+Console.WriteLine($"Count: {common.Count}");
+foreach (var item in common)
+{
+    Console.Write(item + " ");
+}

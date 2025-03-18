@@ -1,8 +1,10 @@
 ﻿<Properties StartupConfiguration="{A95622FC-B682-4209-9CC4-E0B04485AC2D}|Default">
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="CodingProject/BinarySearchAlgorithm.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CodingProject PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CodingProject/SmallestNumber.cs">
     <Files>
-      <File FileName="CodingProject/Program.cs" Line="115" Column="36" />
+      <File FileName="CodingProject/Program.cs" Line="125" Column="85" />
       <File FileName="CodingProject/UniqueCharacterInAString.cs" />
       <File FileName="CodingProject/TwoSumProblem.cs" />
       <File FileName="CodingProject/FindMissingNumber.cs" />
@@ -20,9 +22,11 @@
       <File FileName="CodingProject/FizBuzzProblem.cs" />
       <File FileName="CodingProject/CountCharacterOccurrences.cs" />
       <File FileName="CodingProject/PalindromeNumber.cs" />
-      <File FileName="CodingProject/ReverseWords.cs" Line="15" Column="2" />
-      <File FileName="CodingProject/Anagram.cs" Line="16" Column="32" />
+      <File FileName="CodingProject/ReverseWords.cs" />
+      <File FileName="CodingProject/Anagram.cs" />
       <File FileName="CodingProject/BinarySearchAlgorithm.cs" Line="29" Column="6" />
+      <File FileName="CodingProject/LargestNumber.cs" Line="10" Column="30" />
+      <File FileName="CodingProject/SmallestNumber.cs" Line="35" Column="85" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -34,10 +38,8 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.CodingProject PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
 </Properties>
