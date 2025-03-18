@@ -9,23 +9,23 @@ namespace CodingProject
 
 		public static int BinarySearch(int[] arr, int element)
 		{
-			int i = 0, j = arr.Length - 1;
+			int left = 0, right = arr.Length - 1;
 
-			while(i <= j)
+			while(left <= right)
 			{
-                int mid = i + (j - i) / 2;
+                int mid = (left + right) / 2;
                 if (arr[mid] == element)
 				{
                     return mid;
                 }
                 else if (arr[mid] > element)
 				{
-                    j = mid - 1;
+                    right = mid - 1;
 					
                 }
 				else
 				{
-					i = mid + 1;
+					left = mid + 1;
 				}
 			}
 
