@@ -37,6 +37,12 @@ Console.WriteLine(ReverseString.Reverse("racecar"));
 Console.Write("Reverse of string is ");
 Console.WriteLine(ReverseString.Reverse("string"));
 
+Console.WriteLine("Palindrome: ");
+Console.WriteLine($"Is racecar Palindrome: {Palindrome.IsPalindrome("racecar")}");
+Console.WriteLine($"Is madam Palindrome: {Palindrome.IsPalindrome("madam")}");
+Console.WriteLine($"Is hello Palindrome: {Palindrome.IsPalindrome("hello")}");
+
+Console.WriteLine("Palindrome with recursive: ");
 Console.WriteLine($"Is racecar Palindrome: {Palindrome.IsPalindrome("racecar")}");
 Console.WriteLine($"Is madam Palindrome: {Palindrome.IsPalindrome("madam")}");
 Console.WriteLine($"Is hello Palindrome: {Palindrome.IsPalindrome("hello")}");

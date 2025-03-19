@@ -21,6 +21,21 @@ namespace CodingProject
 			
 			return true;
 		}
+
+		public static bool IsPalindromeWithRecursive(string text, int start, int end)
+		{
+			if (start >= end)
+			{
+				return true;
+			}
+
+			if (text[start] != text[end])
+			{
+				return false;
+			}
+
+			return IsPalindromeWithRecursive(text, start + 1, end - 1);
+		} 
 	}
 }
 
