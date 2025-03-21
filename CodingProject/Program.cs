@@ -141,3 +141,10 @@ foreach (var item in common)
 {
     Console.Write(item + " ");
 }
+Console.WriteLine();
+Console.WriteLine("Remove duplicate numbers");
+int[] nums = { 1, 1, 2, 2, 3, 4, 4 };
+
+int newLength = RemoveDuplicates.RemoveDuplicatesNumbers(nums);
+Console.WriteLine(newLength);  // Output: 4
+Console.WriteLine(string.Join(", ", nums.Take(newLength)));
