@@ -1,5 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using CodingProject;
+using CodingProject.LinkedList;
 
 Console.WriteLine("Hello, World!");
 
@@ -148,3 +149,11 @@ int[] nums = { 1, 1, 2, 2, 3, 4, 4 };
 int newLength = RemoveDuplicates.RemoveDuplicatesNumbers(nums);
 Console.WriteLine(newLength);  // Output: 4
 Console.WriteLine(string.Join(", ", nums.Take(newLength)));
+
+Console.WriteLine("Linked List Reverse");
+var linkedList = LinkedListOperation.CreateLinkedList();
+Console.WriteLine("Before Reverse");
+LinkedListOperation.PrintList(linkedList);
+Console.WriteLine("After Reverse");
+var reversedList = LinkedListOperation.Reverse(linkedList);
+LinkedListOperation.PrintList(reversedList);

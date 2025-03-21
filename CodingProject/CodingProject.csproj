@@ -9,8 +9,10 @@
 
   <ItemGroup>
     <None Remove="Stack with LinkedList\" />
+    <None Remove="LinkedList\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Stack with LinkedList\" />
+    <Folder Include="LinkedList\" />
   </ItemGroup>
 </Project>
