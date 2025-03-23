@@ -157,3 +157,8 @@ LinkedListOperation.PrintList(linkedList);
 Console.WriteLine("After Reverse");
 var reversedList = LinkedListOperation.Reverse(linkedList);
 LinkedListOperation.PrintList(reversedList);
+
+Console.WriteLine("Longest Substring without repeating characters");
+Console.WriteLine("pwwpa".LengthOfLongestSubstring());
+Console.WriteLine("abcd".LengthOfLongestSubstring());
+Console.WriteLine("aaaa".LengthOfLongestSubstring());

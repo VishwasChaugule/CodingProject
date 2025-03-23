@@ -1,19 +1,18 @@
 ﻿<Properties StartupConfiguration="{A95622FC-B682-4209-9CC4-E0B04485AC2D}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.CodingProject PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="CodingProject/Program.cs">
     <Files>
-      <File FileName="CodingProject/Program.cs" Line="138" Column="45" />
+      <File FileName="CodingProject/Program.cs" Line="159" Column="30" />
       <File FileName="CodingProject/UniqueCharacterInAString.cs" />
       <File FileName="CodingProject/TwoSumProblem.cs" />
       <File FileName="CodingProject/FindMissingNumber.cs" />
       <File FileName="CodingProject/ValidParanthesis.cs" />
       <File FileName="CodingProject/ReverseString.cs" />
       <File FileName="CodingProject/Palindrome.cs" />
-      <File FileName="CodingProject/RemoveDuplicateCharacters.cs" Line="1" Column="1" />
+      <File FileName="CodingProject/RemoveDuplicateCharacters.cs" />
       <File FileName="CodingProject/MergeSortedArrays.cs" />
-      <File FileName="CodingProject/Stack with LinkedList/Node.cs" />
+      <File FileName="CodingProject/Stack with LinkedList/Node.cs" Line="9" Column="23" />
       <File FileName="CodingProject/Stack with LinkedList/Stack.cs" />
       <File FileName="CodingProject/LengthOfLongestSubstring.cs" />
       <File FileName="CodingProject/QueueUsingTwoStacks.cs" />
@@ -27,21 +26,26 @@
       <File FileName="CodingProject/BinarySearchAlgorithm.cs" />
       <File FileName="CodingProject/LargestNumber.cs" />
       <File FileName="CodingProject/SmallestNumber.cs" />
-      <File FileName="CodingProject/CommonElements.cs" Line="10" Column="27" />
-      <File FileName="CodingProject/RemoveDuplicates.cs" Line="10" Column="27" />
+      <File FileName="CodingProject/CommonElements.cs" />
+      <File FileName="CodingProject/RemoveDuplicates.cs" />
+      <File FileName="CodingProject/LinkedList/LinkedListOperation.cs" Line="46" Column="16" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="CodingProject">
-            <Node name="CodingProject" expanded="True" />
+          <Node name="CodingProject" selected="True">
+            <Node name="CodingProject" expanded="True">
+              <Node name="LinkedList" expanded="True" />
+              <Node name="Stack with LinkedList" expanded="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.CodingProject PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
