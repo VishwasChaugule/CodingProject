@@ -162,3 +162,7 @@ Console.WriteLine("Longest Substring without repeating characters");
 Console.WriteLine("pwwpa".LengthOfLongestSubstring());
 Console.WriteLine("abcd".LengthOfLongestSubstring());
 Console.WriteLine("aaaa".LengthOfLongestSubstring());
+
+Console.WriteLine("Int to Roman");
+Console.WriteLine(IntToRoman.IntToRomanConversion(58));
+Console.WriteLine(IntToRoman.IntToRomanConversion(3749));
