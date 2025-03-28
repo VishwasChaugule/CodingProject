@@ -1,14 +1,10 @@
 ﻿<Properties StartupConfiguration="{A95622FC-B682-4209-9CC4-E0B04485AC2D}|Default">
-  <MonoDevelop.Ide.ItemProperties.CodingProject PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="CodingProject/ValidParanthesis.cs">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CodingProject/Program.cs">
     <Files>
-      <File FileName="CodingProject/Program.cs" />
+      <File FileName="CodingProject/Program.cs" Line="168" Column="55" />
       <File FileName="CodingProject/UniqueCharacterInAString.cs" />
       <File FileName="CodingProject/TwoSumProblem.cs" />
       <File FileName="CodingProject/FindMissingNumber.cs" />
@@ -25,7 +21,7 @@
       <File FileName="CodingProject/MaxSubArraySum.cs" />
       <File FileName="CodingProject/FizBuzzProblem.cs" />
       <File FileName="CodingProject/CountCharacterOccurrences.cs" />
-      <File FileName="CodingProject/PalindromeNumber.cs" Line="21" Column="38" />
+      <File FileName="CodingProject/PalindromeNumber.cs" />
       <File FileName="CodingProject/ReverseWords.cs" />
       <File FileName="CodingProject/Anagram.cs" />
       <File FileName="CodingProject/BinarySearchAlgorithm.cs" />
@@ -35,19 +31,23 @@
       <File FileName="CodingProject/RemoveDuplicates.cs" />
       <File FileName="CodingProject/LinkedList/LinkedListOperation.cs" />
       <File FileName="CodingProject/StringExtensions.cs" />
+      <File FileName="CodingProject/IntToRoman.cs" Line="10" Column="23" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="CodingProject">
+          <Node name="CodingProject" selected="True">
             <Node name="CodingProject" expanded="True">
               <Node name="LinkedList" expanded="True" />
               <Node name="Stack with LinkedList" expanded="True" />
-              <Node name="ValidParanthesis.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.CodingProject PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

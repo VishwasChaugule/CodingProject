@@ -166,3 +166,7 @@ Console.WriteLine("aaaa".LengthOfLongestSubstring());
 Console.WriteLine("Int to Roman");
 Console.WriteLine(IntToRoman.IntToRomanConversion(58));
 Console.WriteLine(IntToRoman.IntToRomanConversion(3749));
+
+Console.WriteLine("Roman to Int");
+Console.WriteLine(IntToRoman.RomanToInt("III"));
+Console.WriteLine(IntToRoman.RomanToInt("MCMXCIV"));
