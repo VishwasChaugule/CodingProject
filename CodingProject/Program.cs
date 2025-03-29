@@ -170,3 +170,11 @@ Console.WriteLine(IntToRoman.IntToRomanConversion(3749));
 Console.WriteLine("Roman to Int");
 Console.WriteLine(IntToRoman.RomanToInt("III"));
 Console.WriteLine(IntToRoman.RomanToInt("MCMXCIV"));
+
+Console.WriteLine("Merge two Lists");
+var list1 = LinkedListOperation.CreateLinkedList();
+var list2 = LinkedListOperation.CreateLinkedList();
+
+var mergedList = LinkedListOperation.MergeTwoLists(list1, list2);
+
+LinkedListOperation.PrintList(mergedList);

@@ -45,6 +45,38 @@ namespace CodingProject.LinkedList
 
 			return head;
         }
+
+        public static Node MergeTwoLists(Node list1, Node list2)
+        {
+            Node list3 = new Node(0);
+            Node current = list3;
+            while (list1 != null && list2 != null)
+            {
+                if (list1.Data < list2.Data)
+                {
+                    current.Next = list1;
+                    list1 = list1.Next;
+                }
+                else
+                {
+                    current.Next = list2;
+                    list2 = list2.Next;
+                }
+
+                current = current.Next;
+            }
+
+            if (list1 != null)
+            {
+                current.Next = list1;
+            }
+            else
+            {
+                current.Next = list2;
+            }
+
+            return list3.Next;
+        }
     }
 }
 
