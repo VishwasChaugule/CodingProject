@@ -80,16 +80,23 @@ Console.WriteLine($"Is queue empty : {queue.IsEmpty()}");
 Console.WriteLine($"Dequeue: {queue.Dequeue()}");
 Console.WriteLine($"Peek element: {queue.Dequeue()}");
 
-Console.WriteLine($"Factorial of 0: {Factorial.GetFactorialOfNumber(0)}");
-Console.WriteLine($"Factorial of 1: {Factorial.GetFactorialOfNumber(1)}");
-Console.WriteLine($"Factorial of 5: {Factorial.GetFactorialOfNumber(5)}");
+Console.WriteLine($"Factorial of 0: {Factorial.GetFactorial(0)}");
+Console.WriteLine($"Factorial of 1: {Factorial.GetFactorial(1)}");
+Console.WriteLine($"Factorial of 5: {Factorial.GetFactorial(5)}");
 
 Console.WriteLine($"Fibonacci series upto 5:");
 
-for (int i = 0; i < 5; i++)
+for (int i = 0; i <= 5; i++)
 {
-    Console.WriteLine(Fibonacci.GetFibonacciSeriesUptoGivenNumber(i) + " ");
+    Console.WriteLine(Fibonacci.GetFibonacciSeriesByRecursive(i));
 }
+
+
+Console.WriteLine($"Fibonacci series upto 5:");
+
+
+Fibonacci.GetFibonacciSeriesUptoGivenNumber(5);
+
 
 Console.WriteLine("Max Sub Array Sum");
 Console.WriteLine($"[1,-2, 3, 4, -3, 4] : {MaxSubArraySum.GetMaxSubArraySum(new int[] { 1, -2, 3, 4, -3, 4 })}");
