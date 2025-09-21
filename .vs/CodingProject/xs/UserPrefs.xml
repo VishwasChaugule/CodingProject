@@ -1,14 +1,13 @@
 ﻿<Properties StartupConfiguration="{A95622FC-B682-4209-9CC4-E0B04485AC2D}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="CodingProject/Program.cs">
     <Files>
-      <File FileName="CodingProject/Program.cs" Line="168" Column="55" />
+      <File FileName="CodingProject/Program.cs" Line="171" Column="29" />
       <File FileName="CodingProject/UniqueCharacterInAString.cs" />
       <File FileName="CodingProject/TwoSumProblem.cs" />
       <File FileName="CodingProject/FindMissingNumber.cs" />
-      <File FileName="CodingProject/ValidParanthesis.cs" Line="11" Column="4" />
+      <File FileName="CodingProject/ValidParanthesis.cs" />
       <File FileName="CodingProject/ReverseString.cs" />
       <File FileName="CodingProject/Palindrome.cs" />
       <File FileName="CodingProject/RemoveDuplicateCharacters.cs" />
@@ -29,16 +28,15 @@
       <File FileName="CodingProject/SmallestNumber.cs" />
       <File FileName="CodingProject/CommonElements.cs" />
       <File FileName="CodingProject/RemoveDuplicates.cs" />
-      <File FileName="CodingProject/LinkedList/LinkedListOperation.cs" />
+      <File FileName="CodingProject/LinkedList/LinkedListOperation.cs" Line="49" Column="22" />
       <File FileName="CodingProject/StringExtensions.cs" />
-      <File FileName="CodingProject/IntToRoman.cs" Line="10" Column="23" />
+      <File FileName="CodingProject/IntToRoman.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CodingProject" selected="True">
-            <Node name="CodingProject" expanded="True">
-              <Node name="LinkedList" expanded="True" />
+            <Node name="CodingProject">
               <Node name="Stack with LinkedList" expanded="True" />
             </Node>
           </Node>
@@ -46,8 +44,9 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CodingProject PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.CodingProject PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
